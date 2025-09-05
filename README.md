@@ -17,10 +17,9 @@ This tool was created to understand the core mechanics of web content discovery 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-github-username/SimpleDirBuster.git
+    git clone https://github.com/ArtemArmash/SimpleDirBuster.git
     cd SimpleDirBuster
     ```
-    *(Не забудь изменить `your-github-username/SimpleDirBuster` на твой реальный путь на GitHub)*
 
 2.  **It's highly recommended to use a Python virtual environment:**
     ```bash
@@ -63,4 +62,3 @@ python3 bruteforcer.py http://192.168.1.14 /usr/share/wordlists/dirbuster/direct
 ## Disclaimer
 
 ⚠️ **This tool is for educational and authorized testing purposes ONLY.** Unauthorized scanning of websites is illegal and unethical. Ensure you have explicit, written permission from the system owner before using this tool on any target. The author is not responsible for any misuse or damage caused by this script.
-```
