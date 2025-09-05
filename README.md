@@ -64,5 +64,3 @@ python3 bruteforcer.py http://192.168.1.14 /usr/share/wordlists/dirbuster/direct
 
 ⚠️ **This tool is for educational and authorized testing purposes ONLY.** Unauthorized scanning of websites is illegal and unethical. Ensure you have explicit, written permission from the system owner before using this tool on any target. The author is not responsible for any misuse or damage caused by this script.
 ```
-
----
