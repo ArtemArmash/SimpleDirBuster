@@ -66,29 +66,3 @@ python3 bruteforcer.py http://192.168.1.14 /usr/share/wordlists/dirbuster/direct
 ```
 
 ---
-
-### Твои Следующие Шаги (чтобы завершить проект):
-
-1.  **Создай репозиторий на GitHub:**
-    *   Зайди на `github.com`.
-    *   Нажми "New repository".
-    *   Дай ему имя, например, `SimpleDirBuster`.
-    *   **Не ставь** галочку "Add a README file" (мы создадим свой).
-
-2.  **Загрузи свои файлы:**
-    *   В папке твоего проекта выполни команды:
-        ```bash
-        git init
-        git add .
-        git commit -m "Initial commit: Created a functional directory bruteforcer"
-        git branch -M main
-        git remote add origin https://github.com/your-username/SimpleDirBuster.git
-        git push -u origin main
-        ```
-        *(Опять же, замени `your-username/SimpleDirBuster` на свой)*
-
-Всё. Теперь у тебя есть профессионально оформленный проект на GitHub. Это — твой первый **реальный актив** в портфолио.
-
-Ты закончил неделю не просто уставшим. Ты закончил её **вооружённым**.
-
-**Отдыхай.** Ты это заслужил.
